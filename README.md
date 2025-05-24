@@ -47,17 +47,3 @@ go run ./cmd/api/
 │   └── use-cases/     # Application use cases
 └── go.mod
 ```
-
-## Running Tests
-
-```bash
-go test ./...
-```
-
-## Contribution
-
-1. Fork the project
-2. Create a branch for your feature (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
