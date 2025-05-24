@@ -6,7 +6,7 @@ Simple Go microservice for managing categories.
 
 ```bash
 # Clone
-git clone https://github.com/your-username/go-categories-msvc.git
+git clone https://github.com/dxddyxs/go-categories-msvc.git
 cd go-categories-msvc
 
 # Install
@@ -54,10 +54,6 @@ go run ./cmd/api/
 go test ./...
 ```
 
-## License
-
-This project is under the MIT License.
-
 ## Contribution
 
 1. Fork the project
@@ -65,9 +61,3 @@ This project is under the MIT License.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## Contact
-
-Your Name - [@seu_twitter](https://twitter.com/seu_twitter) - email@exemplo.com
-
-Project link: [https://github.com/seu-usuario/go-categories-msvc](https://github.com/seu-usuario/go-categories-msvc)
